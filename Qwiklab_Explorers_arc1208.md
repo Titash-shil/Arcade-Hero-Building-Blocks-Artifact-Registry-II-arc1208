@@ -1,4 +1,4 @@
-# Arcade Hero: Building Blocks Artifact Registry III || [arc1208](https://www.cloudskillsboost.google/focuses/124583?parent=catalog) ||
+# Arcade Hero: Building Blocks Artifact Registry II || [arc1208](https://www.cloudskillsboost.google/focuses/124583?parent=catalog) ||
 
 ## # Like, comment, share & Don't forget to subscribe [Qwiklab_Explorers](https://youtube.com/@titashshil?si=RgamNu1dc9jVIbJN) 👍😄🤝
 
